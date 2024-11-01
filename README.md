@@ -1,8 +1,8 @@
-# Karenderia Merchant
+# House Bring
 
-![Karenderia Logo](readmeImages/Karenderia.png)
+![ouse Bring Logo](readmeImages/Karenderia.png)
 
-This version of Karenderia is centered around being a desktop aplication. Already compiled for windows machines.
+This version of ouse Bring is centered around being a desktop aplication. Already compiled for windows machines.
 
 # Installation
 ```
