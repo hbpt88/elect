@@ -1,8 +1,8 @@
 # House Bring
 
-![ouse Bring Logo](readmeImages/Karenderia.png)
+![House Bring Logo](readmeImages/Karenderia.png)
 
-This version of ouse Bring is centered around being a desktop aplication. Already compiled for windows machines.
+This version of House Bring is centered around being a desktop aplication. Already compiled for windows machines.
 
 # Installation
 ```
