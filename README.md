@@ -6,9 +6,9 @@ This version of House Bring is centered around being a desktop aplication. Alrea
 
 # Installation
 ```
-$ git clone https://github.com/hbpt88/elect-update.git
-$ cd elect-update
-$ npm install
+git clone https://github.com/hbpt88/elect-update.git
+cd elect-update
+npm install
 ```
 
 
