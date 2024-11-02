@@ -7,7 +7,7 @@
 ## Features
 1.  **Order Management**
 
-* **Place Orders:** Quickly add customer orders with an intuitive interface.
+* **Place Orders:** Manage your orders quickly with an intuitive interface.
 * **Order Queue:** View all active orders in real-time to manage preparation and delivery efficiently.
 * **Print Orders:** Print order receipts directly from the app to ensure all items are accurately communicated to the kitchen
 
