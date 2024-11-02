@@ -1,38 +1,21 @@
 # House Bring
 
-![House Bring Logo](readmeImages/parceiroshb.png)
+![Karenderia Logo](readmeImages/parceiroshb.png)
 
-This version of House Bring is centered around being a desktop aplication. Already compiled for windows machines.
+**House Bring** is a versatile and user-friendly restaurant management app that simplifies the operations of any restaurant, from managing orders to customizing the menu and more. Designed with efficiency and convenience in mind, House Bring equips restaurant staff with everything they need to provide a seamless experience for customers.
 
-# Installation
-```
-git clone https://github.com/hbpt88/elect-update.git
-cd elect-update
-npm install
-```
+## Features
+1.  **Order Management**
 
+* **Place Orders:** Quickly add customer orders with an intuitive interface.
+* **Order Queue:** View all active orders in real-time to manage preparation and delivery efficiently.
+* **Print Orders:** Print order receipts directly from the app to ensure all items are accurately communicated to the kitchen
 
+2. **Menu Customization**
+* **Add, Edit, and Remove Items:** Modify your menu items at any time. Add new dishes, update prices, or remove items that are no longer available.
+* **Categories and Descriptions:** Organize menu items by category, with custom descriptions and images to make each item stand out.
+* **Specials and Promotions:** Highlight daily specials or set promotional prices to attract more customers.
 
-# Commands
+3. **Multi-Platform Compatibility**
 
-```npm run dev``` Runs the app in development mode with electron support
-
-```npm run build``` Generates an executable and update files. See 
-[Updating](#updating) for more info
-
-
-# Updating
-
-**Steps to generate a new version:**
-
-* Update app ``version`` in `package.json`
-* Make a new release in the [update repository](https://github.com/hbpt88/elect)
-
-> [!TIP]    
-> To change the repository that the app fetches from change `repository` on `package.json`
-
-Upload files from `dist\electron\Packaged` in the release. 
-
-> [!NOTE]   
-> All files must be upload except for the `win-unpacked` folder    
-> Remember to change all the spaces in the files with a Hyphen " - "
+House Bring is designed to work on various platforms, making it accessible from different devices, whether you're on a desktop, tablet, or smartphone.
