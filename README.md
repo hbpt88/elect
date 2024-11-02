@@ -1,6 +1,6 @@
 # House Bring
 
-![House Bring Logo](readmeImages/Karenderia.png)
+![House Bring Logo](readmeImages/parceiroshb.png)
 
 This version of House Bring is centered around being a desktop aplication. Already compiled for windows machines.
 
@@ -36,5 +36,3 @@ Upload files from `dist\electron\Packaged` in the release.
 > [!NOTE]   
 > All files must be upload except for the `win-unpacked` folder    
 > Remember to change all the spaces in the files with a Hyphen " - "
-
-![Files to upload](readmeImages/screen1.png)
